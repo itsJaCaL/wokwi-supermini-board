@@ -1,0 +1,9 @@
+{
+  "name": "ESP32-C3 SuperMini (Russell)",
+  "url": "https://github.com/itsJaCaL/wokwi-supermini-board",
+  "chip": "esp32-c3",
+  "board": "board.svg",
+  "script": "main.ino",
+  "defaultBaudRate": 115200,
+  "pinout": "supermini.chip.json"
+}
